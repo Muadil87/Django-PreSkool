@@ -1,0 +1,13 @@
+# Virtual environment
+monenv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Django local database (optional, but good practice so you don't overwrite it later)
+db.sqlite3
+
+# OS generated files
+.DS_Store
